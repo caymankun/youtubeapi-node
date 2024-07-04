@@ -4,7 +4,7 @@
   "description": "Node.js app to download YouTube videos and encode them in Base64",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.17.2"
